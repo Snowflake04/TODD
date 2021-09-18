@@ -29,7 +29,7 @@ creator
     )
     .registerCommandsIn(path.join(__dirname, 'commands'));
 
-if (process.env['DISCORD_GUILD_ID']) creator.syncCommandsIn(config.guildId);
+if (config.guildId) creator.syncCommandsIn(config.guildId);
 else creator.syncCommands();
 
 client.login(config.token);
