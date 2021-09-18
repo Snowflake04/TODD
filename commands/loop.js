@@ -10,23 +10,23 @@ module.exports = class extends SlashCommand {
                 {
                     name: "mode",
                     type: CommandOptionType.INTEGER,
-                    description: "Loop type",
+                    description: "Choose 0-3",
                     required: true,
                     choices: [
                         {
-                            name: "Off",
+                            name: "0 => Off",
                             value: QueueRepeatMode.OFF
                         },
                         {
-                            name: "Current Track",
+                            name: "1 => Current Track",
                             value: QueueRepeatMode.TRACK
                         },
                         {
-                            name: "Queue",
+                            name: "2 => Queue",
                             value: QueueRepeatMode.QUEUE
                         },
                         {
-                            name: "Autoplay",
+                            name: "3 => Autoplay",
                             value: QueueRepeatMode.AUTOPLAY
                         }
                     ]
