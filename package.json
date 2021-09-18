@@ -1,0 +1,28 @@
+{
+  "name": "Music_Bot",
+  "version": "1.0.0",
+  "description": "Final Build",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "LoneWolf6969",
+  "license": "MIT",
+  "dependencies": {
+    "@discord-player/downloader": "^3.0.1",
+    "@discord-player/extractor": "^3.0.2",
+    "@discordjs/opus": "^0.6.0",
+    "chalk": "^4.1.2",
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "moment": "^2.29.1",
+    "simple-node-logger": "^21.8.12",
+    "slash-create": "^4.0.1"
+  },
+  "devDependencies": {
+    "mdtable": "^0.3.1",
+    "node": "^16.6.1"
+  }
+}
