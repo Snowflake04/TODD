@@ -6,7 +6,7 @@ try {
     } catch (e) {
       client.logger.error(e)
     }
-  lt terminate = "1632119948000";
+  let terminate = "1632119948000";
 let date = Date.now()
   if (date < terminate){
 const ms = terminate-date
