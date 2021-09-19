@@ -1,6 +1,6 @@
 const { SlashCommand } = require('slash-create');
 
-module.exports = class extends SlashCommand {
+module.exports = class Back extends SlashCommand {
     constructor(creator) {
         super(creator, {
             name: "previous",
