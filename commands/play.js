@@ -1,7 +1,7 @@
 const { SlashCommand, CommandOptionType } = require('slash-create');
 const { QueryType } = require('discord-player');
 
-module.exports = class extends SlashCommand {
+module.exports = class Play extends SlashCommand {
     constructor(creator) {
         super(creator, {
             name: "play",
