@@ -19,7 +19,7 @@ module.exports.registerPlayerEvents = (player, client) => {
       .addField("Duration", track.duration)
       .setThumbnail(track.thumbnail)
       .setTimestamp()
-      .setFooter("Made by Neeraj #0366")
+      
       queue.metadata.send({embeds: [embed]})
     });
 
