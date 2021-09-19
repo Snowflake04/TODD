@@ -1,6 +1,6 @@
 module.exports = async(client) => {
 try {
-      client.user.setActivity("Neeraj",{
+      client.user.setActivity("Test",{
         type: "LISTENING",
       });
     } catch (e) {
