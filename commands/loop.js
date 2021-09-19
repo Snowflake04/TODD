@@ -1,7 +1,7 @@
 const { SlashCommand, CommandOptionType } = require('slash-create');
 const { QueueRepeatMode } = require('discord-player');
 
-module.exports = class extends SlashCommand {
+module.exports = class Loop extends SlashCommand {
     constructor(creator) {
         super(creator, {
             name: "loop",
