@@ -1,7 +1,20 @@
-# TODD
-<h3> The convenient and open source music bot for discord.</h3>
+<h1 align = center> TODD </h1>
+<h3 align = center> The convenient and open source music bot for discord.</h3>
 
+<p align = center> 
+<a href = "#about"> About </a>
+•
+<a href="#requirements">Requirements </a>
+•
+<a href = "#setup"> Setup </a>
+•
+<a href = "#features"> Features </a>
+
+</p>
+
+##### About
 TODD is an open source discord music bot that can be used in your discord server to play music. The bot is light weight and really easy to setup.
+ 
 
 ##### Requirements
 
