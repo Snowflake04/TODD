@@ -1,3 +1,7 @@
-# music-test
-<h3> Your are not supposed to see this </h3>
-<H6> Sussy bakka </H6>
+# TODD
+<h6> The convenient and open source music bot for discord.</h6>
+
+TODD is an open source discord music bot that can be used in your discord server to play music. The bot is light weight and really easy to setup.
+
+<h5> Requirements </h5>
+- Bot token from [Discord Developer Portal](https://discord.com/developers/applications)
