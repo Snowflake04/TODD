@@ -1,7 +1,7 @@
 module.exports = {
-  "token": process.env.token,
-  "appId": process.env.appId,
-  "pubKey": process.env.pubKey,
-  "guildId": '',
-  "ownerId": ""
+  "token": "Input your token here",
+  "appId": "Input your application ID here",
+  "pubKey": "Your public key here",
+  "guildId": 'The guild id', //The bot should be in the same guild
+  "ownerId": "Your Discord ID"
 }
