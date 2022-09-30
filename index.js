@@ -20,6 +20,7 @@ const creator = new SlashCreator({
   token: config.token,
 });
 
+
 client.loadEvents()    
 creator
     .withServer(
