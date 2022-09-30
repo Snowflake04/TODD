@@ -1,5 +1,5 @@
 <h1 align = center> TODD </h1>
-<h3 align = center> The convenient and open source music bot for discord.</h3>
+<h3 align = center> The Powerful and open source music bot for discord.</h3>
 
 <p align = center> 
 <a href = "#about"> About </a>
