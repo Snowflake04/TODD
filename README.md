@@ -9,6 +9,8 @@
 <a href = "#setup"> Setup </a>
 •
 <a href = "#features"> Features </a>
+•
+<a href = "#support"> Support </a>
 
 </p>
 
@@ -36,3 +38,6 @@ TODD is an open source discord music bot that can be used in your discord server
 - No ban from YouTube since YouTube API is not being used
 - convience
 - Customisable to your needs
+
+##### Support
+Join my [Discord Server](https://discord.gg/DdqsxbxCEC)
