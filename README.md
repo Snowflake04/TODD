@@ -40,4 +40,4 @@ TODD is an open source discord music bot that can be used in your discord server
 - Customisable to your needs
 
 ##### Support
-Join my [Discord Server](https://discord.gg/DdqsxbxCEC)
+Join my [Discord Server](https://discord.gg/DdqsxbxCEC) for help with any issues
