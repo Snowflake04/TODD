@@ -34,7 +34,7 @@ TODD is an open source discord music bot that can be used in your discord server
 
 ##### Features
 - Play music without any interruptions.
-- No need for any Lavalink oru YouTube API
+- No need for any Lavalink or YouTube API
 - No ban from YouTube since YouTube API is not being used
 - convience
 - Customisable to your needs
